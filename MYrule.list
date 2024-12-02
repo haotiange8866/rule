@@ -1,8 +1,13 @@
-# 自己建的走代理的列表
-
-# MYrule
-
-DOMAIN-SUFFIX,qichiyu.com
-DOMAIN-SUFFIX, fulijianghu.net 
-DOMAIN-SUFFIX, fulilive.com
-DOMAIN-KEYWORD, u9a9
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "qichiyu.com",
+        "fulijianghu.net",
+        "fulilive.com",
+        "u9a9.de"
+      ]
+    }
+  ]
+}
